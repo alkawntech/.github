@@ -21,7 +21,7 @@ Here at Alkawn Tech, we work on a variety of projects that span across different
 We are always looking for talented individuals to join our team. If you are passionate about technology and innovation, feel free to explore our repositories and contribute to our projects.
 
 ## Contact Us
-For more information, visit our [website](https://www.alkawntech.tech) or get in touch with us at [contact@alkawntech.com](mailto:contact@alkawntech.tech).
+For more information, visit our [website](https://www.alkawntech.tech) or get in touch with us at [contact@alkawntech.tech](mailto:contact@alkawntech.tech).
 
 ---
 
